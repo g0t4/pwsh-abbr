@@ -97,11 +97,9 @@ PrivateData = @{
         # Tags applied to this module. These help with module discovery in online galleries.
         # Tags = @()
 
-        # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://opensource.org/license/mit'
 
-        # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/g0t4/pwsh-abbr'
 
         # A URL to an icon representing this module.
         # IconUri = ''
@@ -118,9 +116,9 @@ PrivateData = @{
         # External dependent modules of this module
         # ExternalModuleDependencies = @()
 
-    } # End of PSData hashtable
+    }
 
-} # End of PrivateData hashtable
+}
 
 # HelpInfo URI of this module
 # HelpInfoURI = ''
