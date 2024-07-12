@@ -18,7 +18,7 @@ ealias kgp 'kubectl get pods'
 
 ```
 
-Visit my [dotfiles](https://github.com/g0t4/dotfiles) repo for my private version of this module AND for hundreds of ealias examples across a variety of commands.
+Visit my [dotfiles](https://github.com/g0t4/dotfiles) repo for my private version [_alias-helpers.ps1](https://github.com/g0t4/dotfiles/blob/master/pwsh/helpers/load_first/_alias-helpers.ps1) of this module AND for hundreds of ealias examples across a variety of commands.
 
 ## Videos
 
