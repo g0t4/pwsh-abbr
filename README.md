@@ -22,7 +22,9 @@ Visit my [dotfiles](https://github.com/g0t4/dotfiles) repo for my private versio
 
 ## Videos
 
-I published a series of videos to explain how I set this up in `zsh`, `powershell` and `fish` shells:
+[![Walkthrough](http://img.youtube.com/vi/kirf4S9-LFw/hq720.jpg)](http://www.youtube.com/watch?v=kirf4S9-LFw)
+
+I also published a series of videos to explain how I set this up in `zsh`, `powershell` and `fish` shells:
 - [rationale](https://youtu.be/YE2llYDwQI0)
 - [using AutoHotKey instead of `ealias`](https://youtu.be/Gpfw3grNvwQ)
 - [zsh impl](https://youtu.be/R3Kq2FSKUw8)
